@@ -1,0 +1,14 @@
+../OLED/Src/GLCD_driver.c:39:6:LCD_OLED_Write_command	1
+../OLED/Src/GLCD_driver.c:47:6:LCD_OLED_Write_data	1
+../OLED/Src/GLCD_driver.c:55:6:LCD_OLED_Init	1
+../OLED/Src/GLCD_driver.c:104:6:LCD_OLED_Set_Linha_Coluna	1
+../OLED/Src/GLCD_driver.c:115:6:LCD_OLED_Clear_screen	3
+../OLED/Src/GLCD_driver.c:134:6:LCD_OLED_Fill_screen	3
+../OLED/Src/GLCD_driver.c:156:6:LCD_OLED_show_pic	3
+../OLED/Src/GLCD_driver.c:175:6:LCD_OLED_Monta_Linha_Coluna_Texto	3
+../OLED/Src/GLCD_driver.c:210:6:LCD_OLED_Draw_bitmap	3
+../OLED/Src/GLCD_driver.c:237:6:LCD_OLED_Set_font	2
+../OLED/Src/GLCD_driver.c:258:15:LCD_OLED_Le_dado	1
+../OLED/Src/GLCD_driver.c:270:6:LCD_OLED_escreve_texto	12
+../OLED/Src/GLCD_driver.c:446:6:LCD_OLED_Write_buffer	3
+../OLED/Src/GLCD_driver.c:470:6:LCD_OLED_Flip	2

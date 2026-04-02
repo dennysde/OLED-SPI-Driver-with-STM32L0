@@ -1,0 +1,14 @@
+Fontes criadas com GLCD FontCreator
+
+1. Importar fonte existente
+2. Selecionar fonte e tamanho
+3. Editar se desejado
+4. Clicar em 'Export for GLCD'
+5. Selecionar aba mikroPascal
+6. Copiar conteúdo e colar em arquivo .c
+7. Substituir simbolo "$" por "0x" (selecione tudo e use um comando localizar e substituir)
+8. Editar vetor para o formato const unsigned char Fonte[] = { ..... };
+9. Adicionar arquivo .c ao projeto
+
+Adicionar ao main.c a variavel extern const unsigned char Fonte[];
+
