@@ -10,6 +10,7 @@ Driver for OLED display 64x48 /0.66' -> I2C on STM32.
 ## Hardware
 
 - STM32L011K4
+- SSD1306BZ IC
 - Display OLED 64x48 I2C -> WEA006448AWPP3N00000
 - NUCLEO board -> NUCLEO-L011K4
 
