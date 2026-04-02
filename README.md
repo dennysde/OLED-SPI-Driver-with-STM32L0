@@ -1,2 +1,23 @@
-# OLED-SPI-Driver-with-STM32L0
-Driving a 64x48 pixels OLED display with STM32L011K4. This software could be easily migrated to anyother mcu. It's possible to writte text, icons and images to the Display. 
+# OLED SPI Driver for STM32L0
+
+Driver para display OLED 64x48 usando SPI no STM32.
+
+## Demonstração
+
+![OLED Demo](images/oled_demo.jpg)
+
+## Hardware usado
+
+- STM32L011K4
+- Display OLED 64x48 SPI
+- NUCLEO board
+
+## Conexão
+
+![Wiring](images/wiring.png)
+
+## Features
+
+- SPI interface
+- Graphics primitives
+- Text rendering
