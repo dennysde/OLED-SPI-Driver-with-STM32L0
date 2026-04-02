@@ -29,4 +29,4 @@ Driver for OLED display 64x48 /0.66' -> I2C on STM32.
 - Text rendering
 - Icon rendering
 - images
-- Runing on STM32CubeIDE V2.1 / STM32CubeMX 6.17
+- Running on STM32CubeIDE V2.1 / STM32CubeMX 6.17
