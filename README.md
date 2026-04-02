@@ -4,8 +4,7 @@ Driver for OLED display 64x48 /0.66' -> I2C on STM32.
 
 ## Demostration
 
-<img width="764" height="288" alt="demo" src="https://github.com/user-attachments/assets/ccfb4a33-a2cf-4ce7-8a6e-96acd0109809" />
-
+<img width="764" height="288" alt="demo" src="https://github.com/user-attachments/assets/44cf1f09-4c13-4483-822b-170eef4ac8bf" />
 
 ## Hardware
 
